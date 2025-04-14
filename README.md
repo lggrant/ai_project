@@ -38,6 +38,15 @@ The RELand system is not only a breakthrough in humanitarian mine action but als
 
 ---
 
+## Authors
+
+- [Brandon Tirado](https://github.com/brandon-tirado)
+- [Bradley Conger](https://github.com/bradleyconger1228)
+- [Ladzo Bu](https://github.com/ladzobu)
+- [Logan Grant](https://github.com/lggrant)
+
+---
+
 ## Project Scope
 
 This project presents the RELAND system, an AI-based model developed to support government and humanitarian efforts in landmine risk estimation. RELAND leverages enriched datasets—including geographic, socio-demographic, and historical conflict data—to predict the presence of landmines in post-conflict regions. The model applies invariant risk minimization to remain robust under varying conditions and provides interpretable outputs to aid decision-making. Additionally, an interactive interface enables organizations to visualize risk predictions and prioritize demining operations. Our presentation focuses on demonstrating how this AI application can improve public safety and resource allocation in government-led demining initiatives.
