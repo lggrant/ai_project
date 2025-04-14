@@ -106,6 +106,15 @@ The project included an interactive HTML website that visually demonstrates the 
 - **Interactive Risk Exploration**: Clickable grid cells open modal dialogs providing detailed explanations and feature contributions.
 - **Educational Value**: Highlights the interpretability and practical applicability of RELand's AI methodology, making complex concepts approachable for stakeholders.
 
+**Our Live Demo:**  
+[https://Brandon-Tirado.github.io/reland-demo-risk-map/](https://Brandon-Tirado.github.io/reland-demo-risk-map/)
+
+**Prompt Used:**
+
+> Please develop a website using HTML that demonstrates how the RELand model works for landmine detection using deep neural networks, machine learning and other AI techniques to produce probabilities of where landmines may be. It needs to work in the same way that the RELand system does using the variables such as distance from road, proximity to historical events, and also uses geospatial data/characteristics, and community variables i.e. past conflicts.
+
+> Change the HTML code so I have the ability to insert a topographical map underneath the transparent grid squares that indicate low, medium, and high risk so that the user can see the topography of the indicated risk area.
+
 ---
 
 ## Section 6: Business and Economic Implications
@@ -138,13 +147,22 @@ This RELand project effectively showcases how AI can bridge technology with huma
 
 ---
 
-### RELand AI Web Demo – Landmine Risk Prediction Website
+## References
 
-**Live Demo:**  
-[https://Brandon-Tirado.github.io/reland-demo-risk-map/](https://Brandon-Tirado.github.io/reland-demo-risk-map/)
+- Rubio, M. D., Zeng, S., Wang, Q., Alvarado, D., Moreno, F., Heidari, H., & Fang, F. (n.d.). *RELand: Risk estimation of landmines via interpretable invariant risk minimization* [White paper]. Carnegie Mellon University; United Nations Mine Action Service; Colombian Campaign to Ban Landmines.
 
-**Prompt Used:**
+- AICMA. (2022a). *AICMA’s humanitarian demining viewer*. Retrieved from https://ergit.presidencia.gov.co/visores/zonas_desminado_v3_Pre/
 
-> Please develop a website using HTML that demonstrates how the RELand model works for landmine detection using deep neural networks, machine learning and other AI techniques to produce probabilities of where landmines may be. It needs to work in the same way that the RELand system does using the variables such as distance from road, proximity to historical events, and also uses geospatial data/characteristics, and community variables i.e. past conflicts.
+- AICMA. (2022b). *Humanitarian demining in Colombia*. Retrieved from http://www.accioncontraminas.gov.co/AICMA/desminado/desminadohumanitario
 
-> Change the HTML code so I have the ability to insert a topographical map underneath the transparent grid squares that indicate low, medium, and high risk so that the user can see the topography of the indicated risk area.
+- Badirli, S., Liu, X., Xing, Z., Bhowmik, A., Doan, K. D., & Keerthi, S. (2022). Gradient boosting neural networks: GrowNet. Retrieved from https://openreview.net/forum?id=UgBo_nhiHl
+
+- DAICMA. (2022). Situación víctimas minas antipersonal en Colombia: Datos Abiertos Colombia. Retrieved from https://www.datos.gov.co/en/Inclusi-n-Social-y-Reconciliaci-n/Eventos-Minas-Antipersonal-en-Colombia/sgp4-3e6k
+
+- WorldClim. (2023). Global climate and weather data. Retrieved from http://worldclim.org
+
+- WorldPop. (2023). Population Density/Unconstrained individual countries 2000–2020 (1km resolution). Retrieved from https://hub.worldpop.org/geodata/listing?id=76
+
+- Zhang, D., Ahuja, K., Xu, Y., Wang, Y., & Courville, A. (2021). Can subnetwork structure be the key to out-of-distribution generalization? *Proceedings of the 38th International Conference on Machine Learning*, 12356–12367. https://proceedings.mlr.press/v139/zhang21a.html
+
+- Zhou, X., Lin, Y., Zhang, W., & Tong, Z. (2022). Sparse invariant risk minimization. *Proceedings of the 39th International Conference on Machine Learning*, 27222–27244. https://proceedings.mlr.press/v162/zhou22e.html
