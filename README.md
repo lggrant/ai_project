@@ -1,5 +1,9 @@
 # RELand System: AI-Driven Landmine Risk Detection
 
+## Project Scope
+
+This project presents the RELAND system, an AI-based model developed to support government and humanitarian efforts in landmine risk estimation. RELAND leverages enriched datasets—including geographic, socio-demographic, and historical conflict data—to predict the presence of landmines in post-conflict regions. The model applies invariant risk minimization to remain robust under varying conditions and provides interpretable outputs to aid decision-making. Additionally, an interactive interface enables organizations to visualize risk predictions and prioritize demining operations. Our presentation focuses on demonstrating how this AI application can improve public safety and resource allocation in government-led demining initiatives.
+
 ## Project Overview
 This project involves creating and demonstrating the RELand System, an advanced machine-learning platform designed for humanitarian demining. It employs state-of-the-art artificial intelligence methods to detect and prioritize landmine clearance in conflict-affected regions, enhancing both community safety and economic development.
 
