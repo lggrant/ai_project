@@ -42,8 +42,8 @@ The RELand system is not only a breakthrough in humanitarian mine action but als
 
 - [Brandon Tirado](https://github.com/brandon-tirado)
 - [Bradley Conger](https://github.com/bradleyconger1228)
-- [Ladzo Bu](https://github.com/ladzobu)
-- [Logan Grant](https://github.com/lggrant)
+- [Lydia Adzobu](https://github.com/ladzobu)
+- [Lace Grant](https://github.com/lggrant)
 
 ---
 
